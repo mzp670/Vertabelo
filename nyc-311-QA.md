@@ -2,7 +2,7 @@
 
 This study is to understand the taxonomy of one of the important units in NYC311 which is the Quality Assurance Department and to outline a possible conceptual model diagram based on some core business rules and concepts.
 
-![QA Model](https://github.com/mzp670/Vertabelo/new/main#:~:text=QA%20Model%20Diagram-,.,-png)
+![QA Model](https://github.com/mzp670/Vertabelo/blob/main/assets/QA%20Model%20Diagram.png)
 
 Ensuring that New York constituents are getting an improved overall customer experience through timely and quality service delivery from the call center and city agencies is the heart of NYC311 operation. The Quality Assurance and Training teams, along with other departments within the organization, work together to ensure that every call center employee has the necessary knowledge and abilities to provide excellent customer service to all clients.
 
